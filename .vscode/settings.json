@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\YiiZh\\miniconda3\\envs\\py3.6\\python.exe",
+    "python.autoComplete.extraPaths": [
+    "/home/yi/miniconda3/envs/py3.6/lib/python3.6/site-packages",
+    "/home/yi/miniconda3/envs/py3.6/bin/python"
+
+    ],
+    "code-runner.runInTerminal": true
+}
